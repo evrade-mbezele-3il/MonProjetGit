@@ -1,1 +1,2 @@
 contenu simple 1-modification
+Nouvelle fonctionnalité
