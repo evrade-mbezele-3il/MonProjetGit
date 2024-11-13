@@ -1,2 +1,5 @@
 contenu simple 1-modification
 Nouvelle fonctionnalité
+Commit 1
+Commit 2
+Commit 3
