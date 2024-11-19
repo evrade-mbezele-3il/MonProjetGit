@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Ligne ajoutée par feature-a
-=======
 Ligne ajoutée par feature-a
 Ligne ajoutée par feature-b
->>>>>>> feature-b
+
